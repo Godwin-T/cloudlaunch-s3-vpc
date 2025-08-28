@@ -21,7 +21,7 @@ This project focuses on:
    - Hosts a basic static website (HTML/CSS/JS).
    - Static website hosting enabled.
    - Publicly accessible (read-only for anonymous users).
-   - Website URL: [](https://cloudlaunch-site-bucket-dht.s3.us-east-1.amazonaws.com/index.html)
+   - Website URL: [website-link](https://cloudlaunch-site-bucket-dht.s3.us-east-1.amazonaws.com/index.html)
 
 2. **cloudlaunch-private-bucket**
    - Private bucket.
